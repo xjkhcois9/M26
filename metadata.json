@@ -1,0 +1,8 @@
+{
+  "name": "متتبع العادات",
+  "description": "تطبيق متكامل لمتابعة وبناء العادات اليومية مع إحصائيات وسلاسل إنجاز وتحفيز يومي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
